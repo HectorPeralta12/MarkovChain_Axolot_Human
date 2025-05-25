@@ -1,4 +1,5 @@
 # 🧬 Regeneration Simulation using Markov Chains
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Axolotl+Regeneration;Human+Regeneration;Markov+Chain+Simulation;Monte+Carlo+Experiments)](https://git.io/typing-svg)
 
 <div align="center">
   <h3>✨ Biological Tissue Regeneration Simulation ✨</h3>
